@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @draiz33559283
+- 👋 Hi, I’m @draizosongo
 - 👀 I’m interested in ...Software Development,Networking,Web Development 
 - 🌱 I’m currently learning ...at ZETECH UNIVERSITY 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Sotware Developments,DevOps Engineering,Fullstack WebDev
 - 📫 How to reach me ...draizosongo@gmail.com,0790080461
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
